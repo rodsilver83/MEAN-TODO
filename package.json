@@ -2,7 +2,7 @@
   "name": "meantodo",
   "private": true,
   "devDependencies": {
-    "autoprefixer-core": "^6.0.1",
+    "autoprefixer": "^6.4.0",
     "grunt": "^1.0.1",
     "grunt-angular-templates": "^1.0.4",
     "grunt-concurrent": "^2.3.0",
@@ -10,6 +10,7 @@
     "grunt-contrib-compass": "^1.0.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-connect": "^1.0.2",
+    "serve-static": "^1.11.1",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^1.0.1",
     "grunt-contrib-htmlmin": "^2.0.0",
